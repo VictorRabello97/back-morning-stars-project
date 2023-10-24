@@ -15,8 +15,3 @@ namespace MorningStartApi.Repository.Interfaces
         Task<bool> Apagar(int id);
     }
 }
-
-
-
-
-// Interface são as chamadas que fazem conexão com o meu banco (ORM)
